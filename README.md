@@ -167,7 +167,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 ## [Inky Machine Learning](https://triskell.github.io/2016/11/15/Inky-Machine-Learning.html)
 - [x] [Part 1: What is Machine Learning ?](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
-- [ ] [Part 2: Supervised Learning and Unsupervised Learning](https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html)
+- [x] [Part 2: Supervised Learning and Unsupervised Learning](https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html)
 
 ## Machine Learning: An In-Depth Guide
 - [ ] [Overview, goals, learning types, and algorithms](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
